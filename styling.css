@@ -46,7 +46,7 @@ body {
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 
 .inner-container {
@@ -56,6 +56,15 @@ body {
     flex-direction: column;
     text-align: center;
     color: #fff;  
+}
+
+.content-description {
+    color: white;
+    font-family:"Poppins" sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
 }
 
 .content-label {
